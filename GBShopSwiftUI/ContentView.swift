@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("GBShop SwiftUI")
             .padding(.top, 32)
             .font(.largeTitle)
+        //Попробывать сделать проект на SwiftUI
         
     }
 }
