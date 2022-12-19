@@ -85,6 +85,13 @@
 			path = BussinessLogic;
 			sourceTree = "<group>";
 		};
+		650043CD29510207003D5AA1 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
 		65B50F2C2950FC5A00646BC0 = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +117,7 @@
 			children = (
 				650043CA29510165003D5AA1 /* App */,
 				65B50F382950FC5A00646BC0 /* GBShopSwiftUIApp.swift */,
+				650043CD29510207003D5AA1 /* Entity */,
 				650043CB2951017D003D5AA1 /* BussinessLogic */,
 				65B50F3A2950FC5A00646BC0 /* ContentView.swift */,
 				65B50F3C2950FC5B00646BC0 /* Assets.xcassets */,
