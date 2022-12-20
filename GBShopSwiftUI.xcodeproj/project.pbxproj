@@ -74,6 +74,7 @@
 		650043CA29510165003D5AA1 /* App */ = {
 			isa = PBXGroup;
 			children = (
+				65B50F382950FC5A00646BC0 /* GBShopSwiftUIApp.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -90,6 +91,42 @@
 			children = (
 			);
 			path = Entity;
+			sourceTree = "<group>";
+		};
+		654E831E29510A94008AC082 /* Assembly */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Assembly;
+			sourceTree = "<group>";
+		};
+		6591EE5329520B65004C3EF3 /* Flows */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Flows;
+			sourceTree = "<group>";
+		};
+		6591EE5429520B84004C3EF3 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		6591EE5529520B94004C3EF3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				65B50F3C2950FC5B00646BC0 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		6591EE5629520BAF004C3EF3 /* Environments */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Environments;
 			sourceTree = "<group>";
 		};
 		65B50F2C2950FC5A00646BC0 = {
@@ -116,11 +153,14 @@
 			isa = PBXGroup;
 			children = (
 				650043CA29510165003D5AA1 /* App */,
-				65B50F382950FC5A00646BC0 /* GBShopSwiftUIApp.swift */,
-				650043CD29510207003D5AA1 /* Entity */,
 				650043CB2951017D003D5AA1 /* BussinessLogic */,
+				650043CD29510207003D5AA1 /* Entity */,
+				654E831E29510A94008AC082 /* Assembly */,
+				6591EE5329520B65004C3EF3 /* Flows */,
 				65B50F3A2950FC5A00646BC0 /* ContentView.swift */,
-				65B50F3C2950FC5B00646BC0 /* Assets.xcassets */,
+				6591EE5429520B84004C3EF3 /* Core */,
+				6591EE5529520B94004C3EF3 /* Resources */,
+				6591EE5629520BAF004C3EF3 /* Environments */,
 				65B50F3E2950FC5B00646BC0 /* Preview Content */,
 			);
 			path = GBShopSwiftUI;
